@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="crenya - Building intelligent software and AI-powered products for the next generation of businesses.">
   <rect width="1200" height="380" fill="#14151A"/>
   <text x="600" y="180" text-anchor="middle">
-    <tspan fill="#009CE5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="52" font-weight="700" letter-spacing="-2">&lt;&gt;</tspan>
-    <tspan fill="#F6EFE7" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="600"> crenya</tspan>
+    <tspan fill="#009CE5" font-family="-apple-system, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700">&lt;&gt;</tspan>
+    <tspan fill="#F6EFE7" font-family="-apple-system, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="600"> crenya</tspan>
   </text>
   <text x="600" y="250" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" fill="#C7C0B6">Building intelligent software and AI-powered products</text>
   <text x="600" y="282" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" fill="#C7C0B6">for the next generation of businesses.</text>
